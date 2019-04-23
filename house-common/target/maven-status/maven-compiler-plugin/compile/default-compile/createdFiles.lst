@@ -1,0 +1,5 @@
+com\chanct\common\result\ResultMsg.class
+com\chanct\common\utils\BeanHelper.class
+com\chanct\common\constants\CommonConstants.class
+com\chanct\common\model\User.class
+com\chanct\common\utils\HashUtils.class

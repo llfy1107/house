@@ -1,0 +1,6 @@
+com\chanct\biz\config\DruidConfig.class
+com\chanct\biz\service\FileService.class
+com\chanct\biz\service\MailService.class
+com\chanct\biz\mapper\UserMapper.class
+com\chanct\biz\service\UserService.class
+com\chanct\biz\service\MailService$1.class

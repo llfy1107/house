@@ -1,0 +1,3 @@
+# 在resources 的 MAETA-INF 文件夹中的spring.factories文件作为自动配置的配置引用文件
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+coms.chanct.house.autoconfig.HttpClientAutoConfiguration
